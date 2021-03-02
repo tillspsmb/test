@@ -1,3 +1,3 @@
 # Main header
 
-Lorem lorem lorem
+Lorem lorem lorem.
